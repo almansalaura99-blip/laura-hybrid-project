@@ -1,0 +1,15 @@
+{
+  "name": "Laura Hybrid Coach",
+  "short_name": "Hybrid Coach",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#111827",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
